@@ -1,0 +1,4 @@
+[11-Oct-2023 12:07:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function ini__set() in D:\xampp8240\htdocs\poly-web-02-laravel\class15\e-comercee\index.php:2
+Stack trace:
+#0 {main}
+  thrown in D:\xampp8240\htdocs\poly-web-02-laravel\class15\e-comercee\index.php on line 2
